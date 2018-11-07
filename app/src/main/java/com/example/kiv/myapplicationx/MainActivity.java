@@ -10,5 +10,6 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         int x=4;
+        String no="no";
     }
 }
